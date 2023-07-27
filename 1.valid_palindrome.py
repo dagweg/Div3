@@ -1,3 +1,4 @@
+# Time: 8 minutes
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         s = s.lower()
