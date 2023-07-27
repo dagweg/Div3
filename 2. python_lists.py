@@ -1,3 +1,4 @@
+# Time : 5 minutes
 def main(N):
     lst = []
     for i in range(N):
